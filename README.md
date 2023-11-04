@@ -1,2 +1,5 @@
 # stargate-airdop
-Make multiple transactions for Stargate airdrop in Arbitrum and Optimism L2 (bridges, pools, accounts warmup)
+
+
+
+[](https://github.com/rekt-lord/stargate-airdop/blob/main/Untitled.png?raw=true)
