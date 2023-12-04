@@ -1,4 +1,4 @@
-# layerzero-airdop
+# layerzero-airdrop
 
 This software is created to simplify the process of taking part in LayerZero airdrop, streamlining the receipt of airdropped tokens on different platforms. It can assist users in discovering and engaging in airdrops, handling multiple wallet addresses, and efficiently monitoring their rewards from these airdrops.
 
