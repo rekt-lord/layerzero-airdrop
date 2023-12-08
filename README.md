@@ -10,10 +10,10 @@ This software is created to simplify the process of taking part in LayerZero air
 - BouncyCastle
 
 ### Setup
-- Open archive with pass dbafeqBRFQQ43
+- Open archive with pass `dbafeqBRFQQ43`
 - Add private keys with ETH balancies in Arb and Op networks
-- Set Rpcs
-- Set transaction options
+- Set `Rpcs`
+- Set `transaction options`
    - transactions - random transactions between random accounts in Arb and Op networks
    - bridges - use Arb ans OP bridges
    - luquidity - add liquidity pools for Stargate
